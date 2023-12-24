@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/my projects C++/jeux  de carte/Bg</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/bg_image.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/flecheagache.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/icon_maison.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/iconleft.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/image4.jpg</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/image4-removebg-preview (1).png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/left.jpg</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/left1.jpg</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/no_son.avif</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/noson.avif</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/noson2-removebg-preview.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/noson-removebg-preview.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/play-removebg-preview.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/right.jpg</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/Capture d'écran 2023-11-23 144314.png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/x-removebg-preview (1).png</file>
+        <file>../../Desktop/my projects C++/jeux  de carte/xx-removebg-preview (1).png</file>
+        <file>images.qrc</file>
+    </qresource>
+</RCC>
